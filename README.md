@@ -11,7 +11,7 @@ A simple, Python-based terminal game where you guess the hidden word before you 
 
 1. **Clone the Repo**:
 ```bash
-git clone https://github.com/yourusername/brainrot-hangman.git
+git clone https://github.com/JEniabioye/Word-Bank.git
 
 ```
 
@@ -19,7 +19,7 @@ git clone https://github.com/yourusername/brainrot-hangman.git
 2. **Run the Script**:
 Make sure you have Python installed, then run:
 ```bash
-python hangman.py
+python WordBankgame.py
 
 ```
 
